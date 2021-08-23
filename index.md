@@ -49,7 +49,7 @@ while also assuring the data is secured.
 ## Category 2: Algorithms and Data Structures
 
 ## Category 3: Database Integration
-animal_shelter(1)(1).py
+[Artifact 3] (https://github.com/leticiah8231/leticiah8231.github.io/blob/622fa122bbd2c884b41a82a6e545a78733ad4b8b/Lab1-3.cpp)
 
 - Bulleted
 - List
