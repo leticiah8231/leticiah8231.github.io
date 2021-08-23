@@ -44,8 +44,12 @@ is being written with no existing data or a full database of data, it is
 crucial to know how to work with the data the comes in or is already set, 
 while also assuring the data is secured.
 
-## Header 2
-### Header 3
+## Category 1: Software Engineering & Design
+
+## Category 2: Algorithms and Data Structures
+
+## Category 3: Database Integration
+animal_shelter(1)(1).py
 
 - Bulleted
 - List
