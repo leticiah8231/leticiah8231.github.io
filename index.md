@@ -4,13 +4,12 @@ You can use the [editor on GitHub](https://github.com/leticiah8231/leticiah8231.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Self-assessment
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 
-# Self-assessment
 	I have immensely enjoyed my experience in the Computer Science program 
 and have learned so much about all aspects of Computer Science. I currently work 
 as a full-time software engineer and enjoy my employment very much; my knowledge 
