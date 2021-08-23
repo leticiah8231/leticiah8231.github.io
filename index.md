@@ -16,6 +16,8 @@
 	I have chosen the two artifacts included because I feel they depict both my abilities to work with an existing database as well as add to an existing database of data. Both which are very important in my current career and many careers in the computer science field. Whether a program is being written with no existing data or a full database of data, it is crucial to know how to work with the data the comes in or is already set, while also assuring the data is secured.|
 
 ### Category 1: Software Engineering & Design
+This updated [artifact](https://github.com/leticiah8231/leticiah8231.github.io/blob/622fa122bbd2c884b41a82a6e545a78733ad4b8b/Lab1-3.cpp) is a great example of engineering and design as the program works seamlessly with a database as well as input from the user. This specific code takes information from the patient, such as dog breed, or city and  is meant to work with existing data from multiple animal shelters to identify and categorize available dogs by their type of rescue. I've created this program to work any set of data, as the variable names are easy to manipulate and give the same results. Here are some examples of what the program willl run when user enters desired information:
+
 
 ### Category 2: Algorithms and Data Structures
 This [Artifact](https://github.com/leticiah8231/leticiah8231.github.io/blob/1df206c13bcb3fa3e7a7af5143ca1ead4c68d3e5/animal_shelter(1)(1).py) is well-organized, processes quickly and correctly, and is well commented for other users coming into the program. This artifact was a bit tougher to create as throughout my time creating the artifact, I went re-worked the artifact multiple times to have it run smoother faster. This is also a reason I included this artifact as by using this artifact, I am able to showcase my ability to write a code that processes quickly and neatly. This artifact was created on 5/10/2020, during a course in my Undergraduate career. This artifact works with a database of data to pull the information requested by the user. While working on this artifact, as the previous, I learned to write and submit each code as if you are presenting it directly to a professor or manager. Assuring the entire code is neat and well commented is important for yourself and future users. I did face the challenge of accessing the number of artifacts needed along with the files needed to run the program, but once that was figured out, it ran very smoothly, and I enjoyed altering previous code. This process is much easier than writing the initial code and really makes a difference, this is definitely a step I will include from now on throughout my career as a Software Engineer.
@@ -25,20 +27,4 @@ I have chosen to include this [Artifact](https://github.com/leticiah8231/leticia
 While working on this artifact I learned to write and submit each code as if you are presenting it directly to a professor or manager. Assuring the entire code is neat and well commented is important for yourself and future users. I did face the challenge of accessing the artifact, but once that was figured out, it ran very smoothly.
 
 
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leticiah8231/leticiah8231.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
