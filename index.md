@@ -16,7 +16,7 @@
 	Data structures and algorithms has been the area I have grown the most, as I am now able to write my code very structured and easy to follow while also assuring, I am following and utilizing the proper algorithms for each instance. In the case below, I rewrote this code multiple times to assure I was using the best algorithm for the system to process the code the fastest. 
 	Working with databases is also something I practiced using the code above as I created a code to run through an already existing database specific to what the user is entering and requesting. This was a very vital part in my learning as this is what I am doing now in my current profession and I learned about the security of the data in the database and how important that is to maintain while also learning to work with and manipulate existing data. 
 	I have chosen the two artifacts included because I feel they depict both my abilities to work with an existing database as well as add to an existing database of data. Both which are very important in my current career and many careers in the computer science field. Whether a program is being written with no existing data or a full database of data, it is crucial to know how to work with the data the comes in or is already set, while also assuring the data is secured.|
-<br> 
+ 
 ## Category 1: Software Engineering & Design
 
 ## Category 2: Algorithms and Data Structures
