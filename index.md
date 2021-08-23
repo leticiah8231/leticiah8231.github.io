@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 
 # Self-assessment
-```
+```markdown
 	I have immensely enjoyed my experience in the Computer Science program and have learned so much about all aspects of Computer Science. I currently work as a full-time software engineer and enjoy my employment very much; my knowledge and skills have grown greatly throughout my career in the Computer Science program. 
 	I have learned to work in a team environment, which has already benefitted me greatly in my career, and learned that when writing a program or section of a program, it is important to assure a classmate or coworker coming into your code can easily follow and understand what exactly is happening. Communication to stakeholders has also been a great experience in this course as the job of a software engineer many times is to create something for a customer. The customer must be satisfied, and you must assure you are including every aspect the customer wants included, which can only be done with proper communication.
 	Data structures and algorithms has been the area I have grown the most, as I am now able to write my code very structured and easy to follow while also assuring, I am following and utilizing the proper algorithms for each instance. In the case below, I rewrote this code multiple times to assure I was using the best algorithm for the system to process the code the fastest. 
