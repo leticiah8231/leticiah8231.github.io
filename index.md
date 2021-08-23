@@ -49,9 +49,9 @@ while also assuring the data is secured.
 ## Category 2: Algorithms and Data Structures
 
 ## Category 3: Database Integration
-Here is my [Artifact 3](docs/Lab1-3.cpp)
-- Bulleted
-- List
+I have chosen to include this [Artifact](https://github.com/leticiah8231/leticiah8231.github.io/blob/622fa122bbd2c884b41a82a6e545a78733ad4b8b/Lab1-3.cpp) in my portfolio because I feel it is well-organized, processes quickly and correctly, and is well commented for other users coming into the program. The structure of the program is written very well organized, and the algorithms are neatly written and easy to follow or manipulate for future users. This artifact was created on 6/27/2021, during a course in my Undergraduate career. The program is meant to work with existing data from multiple shelters to identify and categorize available dogs by their type of rescue. The program will use the organizations data to organize and pull the requested data according to what the user has entered.
+While working on this artifact I learned to write and submit each code as if you are presenting it directly to a professor or manager. Assuring the entire code is neat and well commented is important for yourself and future users. I did face the challenge of accessing the artifact, but once that was figured out, it ran very smoothly.
+
 
 1. Numbered
 2. List
