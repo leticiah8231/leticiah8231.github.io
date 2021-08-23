@@ -17,7 +17,7 @@
 ### Category 1: Software Engineering & Design
 This updated [artifact](https://github.com/leticiah8231/leticiah8231.github.io/blob/622fa122bbd2c884b41a82a6e545a78733ad4b8b/Lab1-3.cpp) is a great example of engineering and design as the program works seamlessly with a database as well as input from the user. This specific code takes information from the user, such as dog breed, or city and  is meant to work with existing data from multiple animal shelters to identify and categorize available dogs by their type of rescue. I've created this program to work any set of data, as the variable names are easy to manipulate and give the same results. I utilized both software engineering and design when creating this artifact to assure the entire project was neat and well put together. Here are some examples of what the program willl run when user enters desired information:
 
-[Image 1](https://github.com/leticiah8231/leticiah8231.github.io/blob/8da41b7a8cc9d4666872fcc2460a78f162c22d33/photo1.png)
+![Image 1](document/photo1.png)
 
 [Image 2](https://github.com/leticiah8231/leticiah8231.github.io/blob/8da41b7a8cc9d4666872fcc2460a78f162c22d33/photo2.png)
 
